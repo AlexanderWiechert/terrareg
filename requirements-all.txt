@@ -37,7 +37,7 @@ kiwisolver==1.4.4
 lxml==4.9.1
 Mako==1.2.4
 Markdown==3.4.1
-markdown2==2.4.6
+markdown2==2.4.11
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 mdx-truly-sane-lists==1.3
