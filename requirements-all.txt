@@ -55,7 +55,7 @@ pluggy==1.0.0
 protobuf==3.20.2
 py==1.11.0
 pycparser==2.21
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 pydantic==2.4.0
 pydantic-core==2.6.3
 pydantic-settings==2.0.3
