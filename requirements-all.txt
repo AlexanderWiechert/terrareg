@@ -77,7 +77,7 @@ python3-saml==1.14.0
 pytz==2022.6
 PyVirtualDisplay==3.0
 PyWavelets==1.4.1
-requests==2.31.0
+requests==2.32.0
 scipy==1.10.0
 selenium==4.15.1
 semantic-version==2.10.0
