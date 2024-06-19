@@ -92,7 +92,7 @@ tomli==2.0.1
 trio==0.20.0
 trio-websocket==0.9.2
 typing-extensions==4.7.1
-urllib3==1.26.18
+urllib3==1.26.19
 waitress==2.1.2
 webencodings==0.5.1
 Werkzeug==2.3.8
