@@ -20,7 +20,7 @@ python-magic==0.4.27
 pytz==2023.3
 six==1.16.0
 SQLAlchemy==1.4.45
-Werkzeug==2.2.3
+Werkzeug==3.0.6
 zipp==3.15.0
 mysql-connector-python==8.0.33
 beautifulsoup4==4.12.2
@@ -38,5 +38,5 @@ sentry-sdk==1.22.2
 urllib3==1.26.17
 blinker==1.6.2
 semantic-version==2.10.0
-waitress==2.1.2
+waitress==3.0.1
 pyop==3.4.0
