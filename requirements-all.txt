@@ -64,7 +64,7 @@ pygraphviz==1.10
 pyjwkest==1.4.2
 PyJWT==2.6.0
 pyop==3.4.0
-pyOpenSSL==22.1.0
+pyOpenSSL==24.0.0
 pyparsing==3.0.9
 PySocks==1.7.1
 pytest==7.1.1
